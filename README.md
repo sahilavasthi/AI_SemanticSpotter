@@ -16,7 +16,7 @@ Solving the above two requirements well in the project would ensure that the acc
 - **Problem Statement**:
 Provided with Uber's 2021 financial statement Form 10-K & HDFC Bank Life Insurance policy statements. Our goal here is to build a RAG application on the annual financial statement pdf and life insurance policy documents
 - **Tools used**:
-LlamaIndex has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code. Also, if we want to process heavy documents for RAG application then LlamaIndex provides various custom settings such as override chunk sizes, metadata filters for exact search, prompt engineering & overriding embedding model
+**LlamaIndex** has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code. Also, if we want to process heavy documents for RAG application then LlamaIndex provides various custom settings such as override chunk sizes, metadata filters for exact search, prompt engineering & overriding embedding model
 - **Data Used**:
 Annual financial statement / life insurance documents stored in a single folder
 - **Approach**:
