@@ -21,8 +21,8 @@ Provided with Uber's 2021 financial statement Form 10-K & HDFC Bank Life Insuran
 Annual financial statement / life insurance documents stored in a single folder
 - **Approach**:
 Build a project which should solve the following requirements:
-- Users would get responses from the financial statement & the Life Insurance policy statements.
-- If they want to refer to the original page from which the bot is responding, the bot should provide a citation as well.
+	- Users would get responses from the financial statement & the Life Insurance policy statements.
+	- If they want to refer to the original page from which the bot is responding, the bot should provide a citation as well.
 - **Challenges faced**: Segmentation of the document and creation of a coherent response across different documents
 
 ## Conclusions
